@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Vocab_app/static/js/main.d3cfcd42.chunk.js",
+    "main.js.map": "/Vocab_app/static/js/main.d3cfcd42.chunk.js.map",
+    "runtime-main.js": "/Vocab_app/static/js/runtime-main.ad687f4a.js",
+    "runtime-main.js.map": "/Vocab_app/static/js/runtime-main.ad687f4a.js.map",
+    "static/js/2.909eb0f1.chunk.js": "/Vocab_app/static/js/2.909eb0f1.chunk.js",
+    "static/js/2.909eb0f1.chunk.js.map": "/Vocab_app/static/js/2.909eb0f1.chunk.js.map",
+    "index.html": "/Vocab_app/index.html",
+    "precache-manifest.99aa5b39db6c6c12ac963d469baac60a.js": "/Vocab_app/precache-manifest.99aa5b39db6c6c12ac963d469baac60a.js",
+    "service-worker.js": "/Vocab_app/service-worker.js",
+    "static/js/2.909eb0f1.chunk.js.LICENSE.txt": "/Vocab_app/static/js/2.909eb0f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad687f4a.js",
+    "static/js/2.909eb0f1.chunk.js",
+    "static/js/main.d3cfcd42.chunk.js"
+  ]
+}
